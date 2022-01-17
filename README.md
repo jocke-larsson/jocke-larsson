@@ -23,16 +23,16 @@ Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning
 
 <div align="center">
 
-| År 1                                          | År 2                                  |
-| -----                                         | -----                                 |
-| - Webbutveckling I                            | - Projektledning                      |
-| - Introduktion till programmering i JavaScript| - Fullstack-utveckling med ramverk    |
-| - Digital bildbehandling för webb             | - JavaScript-baserad webbutveckling   |
-| - Webbanvändbarhet                            | - Programmering i C#.NET              |
-| - Databaser                                   | - Webbutveckling med .NET             |
-| - Webbutveckling II                           | - Affärsplaner och kommersialisering  |
-| - Webbdesign för CMS                          | - Självständigt arbete                |
-| - Webbutveckling III                          |                                       |
+| År 1                                          |    | År 2                                 |   |
+| -----                                         |--- | -----                                 |---|
+| - Webbutveckling I                            | ✅ | - Projektledning                      | |
+| - Introduktion till programmering i JavaScript| ✅ | - Fullstack-utveckling med ramverk    | |
+| - Digital bildbehandling för webb             | | - JavaScript-baserad webbutveckling   | |
+| - Webbanvändbarhet                            | | - Programmering i C#.NET              | |
+| - Databaser                                   | | - Webbutveckling med .NET             | |
+| - Webbutveckling II                           | | - Affärsplaner och kommersialisering  | |
+| - Webbdesign för CMS                          | | - Självständigt arbete                | | 
+| - Webbutveckling III                          | |                                       | |
 
 </div>
 
