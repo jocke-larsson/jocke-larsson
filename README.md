@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Joakim Larsson 
+
+Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning på distans.
+
+## Kurser som ingår i utbildningen.
+
+- Webbutveckling I
+- Introduktion till programmering i JavaScript
+- Digital bildbehandling för webb
+- Webbanvändbarhet
+- Databaser
+- Webbutveckling II
+- Webbdesign för CMS
+- Webbutveckling III
+
+- Projektledning
+- Fullstack-utveckling med ramverk
+- JavaScript-baserad webbutveckling
+- Programmering i C#.NET
+- Webbutveckling med .NET
+- Affärsplaner och kommersialisering
+- Självständigt arbete
