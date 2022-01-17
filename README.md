@@ -21,7 +21,9 @@ Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning
 
 ## Kurser som ingår i utbildningen.
 
-:| År 1                                          | År 2                                  |:
+<div align="center">
+
+| År 1                                          | År 2                                  |
 | -----                                         | -----                                 |
 | - Webbutveckling I                            | - Projektledning                      |
 | - Introduktion till programmering i JavaScript| - Fullstack-utveckling med ramverk    |
@@ -32,7 +34,7 @@ Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning
 | - Webbdesign för CMS                          | - Självständigt arbete                |
 | - Webbutveckling III                          |                                       |
 
-
+</div>
 
 
 
