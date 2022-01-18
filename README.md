@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jocke-larsson/jocke-larsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ### 🟩 Joakim Larsson 🟩
+ ## 🟩 Joakim Larsson 🟩
  ---
 Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning på distans.
 
-## Kurser som ingår i utbildningen.
+### Kurser som ingår i utbildningen.
 
 <div align="center">
 
