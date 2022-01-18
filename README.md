@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  ### 🟩 Joakim Larsson 🟩
- 
+ ---
 Studerar webbutveckling på mittuniversitetet i sundsvall, en 2 årig utbildning på distans.
 
 ## Kurser som ingår i utbildningen.
